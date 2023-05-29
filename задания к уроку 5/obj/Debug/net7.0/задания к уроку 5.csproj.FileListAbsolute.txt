@@ -1,0 +1,15 @@
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\bin\Debug\net7.0\задания к уроку 5.exe
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\bin\Debug\net7.0\задания к уроку 5.deps.json
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\bin\Debug\net7.0\задания к уроку 5.runtimeconfig.json
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\bin\Debug\net7.0\задания к уроку 5.dll
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\bin\Debug\net7.0\задания к уроку 5.pdb
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\obj\Debug\net7.0\задания к уроку 5.csproj.AssemblyReference.cache
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\obj\Debug\net7.0\задания к уроку 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\obj\Debug\net7.0\задания к уроку 5.AssemblyInfoInputs.cache
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\obj\Debug\net7.0\задания к уроку 5.AssemblyInfo.cs
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\obj\Debug\net7.0\задания к уроку 5.csproj.CoreCompileInputs.cache
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\obj\Debug\net7.0\задания к уроку 5.dll
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\obj\Debug\net7.0\refint\задания к уроку 5.dll
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\obj\Debug\net7.0\задания к уроку 5.pdb
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\obj\Debug\net7.0\задания к уроку 5.genruntimeconfig.cache
+C:\Users\ZEN\Desktop\Дз урок 5\задания к уроку 5\obj\Debug\net7.0\ref\задания к уроку 5.dll

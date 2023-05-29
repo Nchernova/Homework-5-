@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "задания к уроку 5/1.0.0": {
+        "runtime": {
+          "задания к уроку 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "задания к уроку 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
